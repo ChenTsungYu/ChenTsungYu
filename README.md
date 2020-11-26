@@ -1,5 +1,5 @@
 ## Hi there 👋 You are now reaching Tom's profile. 🤓
-- 🔭 I'm an Cloud Engineer Intern at [Nextlink](https://www.nextlink.cloud/) Taiwan
+- 🔭 I'm an Cloud Engineer Intern at [Nextlink](https://www.linkedin.com/company/nextlink-technology-co.-ltd./) Taiwan
 - 🌱 I'm currently learning Python, JavaScript, Elastic Stack, AWS, Terraform
 
 ### Connect with me 📬
