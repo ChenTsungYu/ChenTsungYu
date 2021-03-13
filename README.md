@@ -7,7 +7,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tom-chen-1012/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:z3337059@gmail.com)
 [![Medium](https://img.shields.io/badge/-Medium-232f3e?style=flat&logo=Medium&logoColor=white)](https://medium.com/@z3337059)
-<img src="https://komarev.com/ghpvc/?username=ChenTsungYu&color=232f3e&style=flat-square">
 [<img src="https://img.shields.io/github/followers/ChenTsungYu?label=follow&style=social" height="22" title="Follow me" />](https://github.com/ChenTsungYu)
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
