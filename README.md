@@ -1,6 +1,6 @@
 ## Hi there 👋 You are now reaching Tom's profile. 🤓
 - 🔭 A Cloud DevOps Engineer at [Nextlink](https://www.linkedin.com/company/nextlink-technology-co.-ltd./) Taiwan
-- 🌱 I'm currently learning Python, JavaScript, Elastic Stack, AWS, Terraform
+- 🌱 I'm currently learning Python, JavaScript, Elastic Stack, AWS, Ansible, Terraform
 
 ### Connect with me 📬
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ChenTsungYu)
