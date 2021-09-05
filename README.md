@@ -1,5 +1,5 @@
 ## Hi there 👋 You are now reaching Tom's profile. 🤓
-- 🔭 A Cloud DevOps Engineer at [Nextlink](https://www.linkedin.com/company/nextlink-technology-co.-ltd./) Taiwan
+- 🔭 A DevOps Engineer.
 - 🌱 I'm currently learning Python, JavaScript, Elastic Stack, AWS, Ansible, Terraform
 
 ### Connect with me 📬
