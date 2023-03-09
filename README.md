@@ -9,12 +9,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-232f3e?style=flat&logo=Medium&logoColor=white)](https://medium.com/@z3337059)
 [<img src="https://img.shields.io/github/followers/ChenTsungYu?label=follow&style=social" height="22" title="Follow me" />](https://github.com/ChenTsungYu)
 
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenTsungYu&show_icons=true&langs_count=30&layout=compact&include_all_commits=true&count_private=true&bg_color=232f3e&title_color=fff&text_color=fff&hide=jupyter%20notebook,css,html,hack,%23">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ChenTsungYu&show_icons=true&line_height=20&count_private=true&bg_color=232f3e&title_color=ec912d&text_color=fff&icon_color=ec912d">
-</div>
+<img align= "left" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 <!--
 **ChenTsungYu/ChenTsungYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
